@@ -1,5 +1,7 @@
 # ⚡ The 80/20 Azure Matrix Service Map
 
+## In Azure, not all knowledge is equal. Mastering just 20% of the services will give you 80% of the impact — and put you ahead of most engineers. This README is your shortcut to that 20%.
+
 ## 🟦 1. Identity & Access
 1. **Entra ID (Azure AD)**
    - Tenants, directories, subscriptions
